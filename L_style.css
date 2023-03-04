@@ -1,0 +1,38 @@
+*{
+    color:;
+    margin: 30px 0px;
+}
+body{
+    width:900px;
+    margin:auto;
+}
+.main{
+    background-color: magenta;
+}
+
+.h1{
+    background-color: blue;
+  float: left;   
+}
+
+header::after{
+    content:' i wsas able to place the header  and desig it inthe mid air ';
+    display:block;
+    clear:both;
+    
+}
+.para{
+    background-color: red;
+    float:left;
+    width:650px
+}
+.sider{
+    float:right;
+    width:200px;
+    background-color: yellow;
+}
+div{
+    clear:both;
+    width:900;
+    background-color: green;
+}
